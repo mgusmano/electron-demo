@@ -1,0 +1,8 @@
+/.idea
+/ext
+/build
+.sencha
+node_modules
+bootstrap.*
+config.rb
+yarn.lock

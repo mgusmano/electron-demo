@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "My app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sencha",
+  "license": "ISC",
+  "dependencies": {
+    "get-image-colors": "^1.5.1",
+    "sha.js": "^2.4.5"
+  }
+}
